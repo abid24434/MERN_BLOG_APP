@@ -60,7 +60,7 @@ export default function Header() {
               <Dropdown.Divider />
               <Dropdown.Item>Sign out</Dropdown.Item>
             </Link>
-          </Dropdown>nctionality
+          </Dropdown>
         ) : (
           <Link to="/sign-in">
             <Button gradientDuoTone="purpleToBlue" outline>
